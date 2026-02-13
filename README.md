@@ -105,7 +105,29 @@ These are the core repositories that best show how I think and build.
 
 ## 🏅 Stats, Trophies & Animations
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kabanda-jordan&show_icons=true&theme=tokyonight)
+<p align="center">
+  <!-- Simple animated banner (replace with your own GIF later if you want) -->
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding animation" width="500" />
+</p>
+
+<p align="center">
+  <!-- Simple GitHub badge row (no dynamic services) -->
+  <img src="https://img.shields.io/badge/Code-Always%20Shipping-22c55e?style=for-the-badge" alt="Always Shipping" />
+  <img src="https://img.shields.io/badge/Focus-Fintech%20%7C%20AI%20%7C%20Security-0f172a?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/OS-Linux%20%7C%20Kali%20Linux-2563eb?style=for-the-badge" alt="OS" />
+</p>
+
+<p align="center">
+  <!-- Trophy‑style static badges -->
+  <img src="https://img.shields.io/badge/Hackathons-10%2B-blueviolet?style=for-the-badge" alt="Hackathons" />
+  <img src="https://img.shields.io/badge/CTF-Participant-orange?style=for-the-badge" alt="CTF Participant" />
+  <img src="https://img.shields.io/badge/Edge%20Systems-Perf%20Tuning-emerald?style=for-the-badge" alt="Edge Systems" />
+</p>
+
+<p align="center">
+  <!-- Visitor counter (this one is usually very reliable) -->
+  <img src="https://komarev.com/ghpvc/?username=kabanda-jordan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
 
