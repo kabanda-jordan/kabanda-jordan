@@ -20,20 +20,15 @@ Passionate **full‑stack** engineer and AI enthusiast focused on fintech, cyber
 ### Frameworks & Libraries
 
 ![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%233B528B.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### Databases & Storage
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -131,7 +126,7 @@ These are the core repositories that best show how I think and build.
 </p>
 
 <p align="center">
-  <!-- Typing animation (mind‑bender vibe) -->
+  <!-- Typing animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Full-stack+Engineer;Fintech+%2B+AI+Builder;Cybersecurity+and+Networking+Enthusiast;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </p>
 
@@ -139,8 +134,6 @@ These are the core repositories that best show how I think and build.
   <!-- Visitor counter -->
   <img src="https://komarev.com/ghpvc/?username=kabanda-jordan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
-> You can swap themes or layouts for these widgets any time using their query parameters.[web:38][web:44][web:45][web:47]
 
 ---
 
