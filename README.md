@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm KABANDA JORDAN
 
 Passionate **full‑stack** engineer and AI enthusiast focused on fintech, cybersecurity, and high‑performance systems. I enjoy turning complex systems into clean, testable code and building projects that run close to real‑world constraints (edge devices, low‑latency backends, security‑sensitive flows).
 
@@ -6,21 +6,21 @@ Passionate **full‑stack** engineer and AI enthusiast focused on fintech, cyber
 
 ## 🧩 Tech Stack
 
-<!-- Badges from Shields.io [web:1][web:2][web:3][web:5] -->
-
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=databricks&logoColor=white)
+<p align="left">
+  <img src="https://github.com/Pedro-Murilo/icons-for-readme/raw/main/.github/js-icon.svg" alt="JavaScript" width="75" />
+  <img src="https://github.com/Pedro-Murilo/icons-for-readme/raw/main/.github/typescript-icon.svg" alt="TypeScript" width="75" />
+  <img src="https://github.com/Pedro-Murilo/icons-for-readme/raw/main/.github/python-icon.svg" alt="Python" width="75" />
+  <img src="https://github.com/Pedro-Murilo/icons-for-readme/raw/main/.github/go-icon.svg" alt="Go" width="75" />
+  <img src="https://github.com/Pedro-Murilo/icons-for-readme/raw/main/.github/ruby-icon.svg" alt="Ruby" width="75" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="75" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="75" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="75" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="75" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="75" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="75" />
+</p>
 
 ### Frameworks & Libraries
 
@@ -62,7 +62,7 @@ Here are some of the challenges that shaped my engineering mindset and domain de
 
 ---
 
-## 🚀 Must‑Have Portfolio Repos
+## 🚀 Latest projects 
 
 These are the core repositories that best show how I think and build.
 
@@ -88,7 +88,7 @@ These are the core repositories that best show how I think and build.
 
 ---
 
-## 📚 Skill Proof Repositories
+## 📚 Skill Proof 
 
 - **Algorithms & Data Structures**  
   Organized solutions by topic (graphs, DP, trees, trading‑related), each with problem, approach, complexity, and notes.
@@ -113,7 +113,7 @@ To reflect real‑world engineering standards, I try to always include:
 
 ## 🌐 Connect
 
-- Portfolio: [your-portfolio-link](https://example.com)  
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-handle)  
-- Email: [you@example.com](mailto:you@example.com)  
-- GitHub: [your‑github‑username](https://github.com/your-github-username)
+- Portfolio: [vercel](https://vercel.com/kabanda-jordans-projects/portfolio)  
+- LinkedIn: [kabanda-jordan](https://linkedin.com/in/kabanda-jordan)  
+- Email: [kabandajordan784@gmail.com](mailto:kabandajordan784@gmail.com)  
+- GitHub: [kabanda-jordan](https://github.com/kabanda-jordan)
