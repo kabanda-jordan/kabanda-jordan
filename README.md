@@ -1,45 +1,45 @@
 # 👋 Hi, I'm KABANDA JORDAN
 
-Passionate **full‑stack** engineer and AI enthusiast focused on fintech, cybersecurity, and high‑performance systems. I enjoy turning complex systems into clean, testable code and building projects that run close to real‑world constraints (edge devices, low‑latency backends, security‑sensitive flows).
+Full‑stack **engineer** and AI enthusiast focused on fintech, cybersecurity, and high‑performance systems. I enjoy turning complex systems into clean, testable code and building products that operate under real‑world constraints (edge devices, low‑latency backends, security‑sensitive flows).[web:23][web:26]
 
 ---
 
 ## 🧩 Tech Stack
 
-<!-- Badges from Shields.io [web:1][web:2][web:3][web:5] -->
-
 ### Languages
 
-!JavaScript
-!TypeScript
-!Python
-!Go
-!Ruby
-!Rust
-!PHP
-!C
-!C++
-!C#
-!SQL
+<p align="left">
+  <img src="https://github.com/Pedro-Murilo/icons-for-readme/raw/main/.github/js-icon.svg" alt="JavaScript" width="75" />
+  <img src="https://github.com/Pedro-Murilo/icons-for-readme/raw/main/.github/typescript-icon.svg" alt="TypeScript" width="75" />
+  <img src="https://github.com/Pedro-Murilo/icons-for-readme/raw/main/.github/python-icon.svg" alt="Python" width="75" />
+  <img src="https://github.com/Pedro-Murilo/icons-for-readme/raw/main/.github/go-icon.svg" alt="Go" width="75" />
+  <img src="https://github.com/Pedro-Murilo/icons-for-readme/raw/main/.github/ruby-icon.svg" alt="Ruby" width="75" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="75" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="75" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="75" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="75" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="75" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="75" />
+</p>[web:21][web:22][web:25]
 
 ### Frameworks & Libraries
 
-!React
-!Vue.js
-!Angular
-!Django
-!Flask
-!Laravel
-!WordPress
-!NumPy
-!Matplotlib
+![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%233B528B.svg?style=for-the-badge&logo=plotly&logoColor=white)[web:1][web:20]
 
 ### Databases & Storage
 
-!MongoDB
-!Cassandra
-!MySQL
-!PostgreSQL
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)[web:1][web:20]
 
 ---
 
@@ -62,9 +62,9 @@ Here are some of the challenges that shaped my engineering mindset and domain de
 
 ---
 
-## 🚀 Latest projects 
+## 🚀 Latest Projects
 
-These are the core repositories that best show how I think and build.
+These are the repositories that best show how I think and build.
 
 - **Flagship Project – Trading Journal / Analytics Platform**  
   Full‑stack app focused on real trading workflows, including risk insights, journaling, and analytics.  
@@ -88,7 +88,7 @@ These are the core repositories that best show how I think and build.
 
 ---
 
-## 📚 Skill Proof 
+## 📚 Skill Proof
 
 - **Algorithms & Data Structures**  
   Organized solutions by topic (graphs, DP, trees, trading‑related), each with problem, approach, complexity, and notes.
@@ -113,7 +113,7 @@ To reflect real‑world engineering standards, I try to always include:
 
 ## 🌐 Connect
 
-- Portfolio: vercel  
-- LinkedIn: kabanda-jordan  
-- Email: kabandajordan784@gmail.com  
-- GitHub: kabanda-jordan
+- Portfolio: [vercel](https://vercel.com/kabanda-jordans-projects/portfolio)  
+- LinkedIn: [kabanda-jordan](https://linkedin.com/in/kabanda-jordan)  
+- Email: [kabandajordan784@gmail.com](mailto:kabandajordan784@gmail.com)  
+- GitHub: [kabanda-jordan](https://github.com/kabanda-jordan)
