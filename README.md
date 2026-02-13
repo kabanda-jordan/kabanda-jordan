@@ -1,6 +1,6 @@
 # 👋 Hi, I'm KABANDA JORDAN
 
-Passionate **full‑stack** engineer and AI enthusiast focused on fintech, cybersecurity, and high‑performance systems. I enjoy turning complex systems into clean, testable code and building projects that run close to real‑world constraints (edge devices, low‑latency backends, security‑sensitive flows).[web:23][web:26]
+Passionate **full‑stack** engineer and AI enthusiast focused on fintech, cybersecurity, and high‑performance systems. I enjoy turning complex systems into clean, testable code and building projects that run close to real‑world constraints (edge devices, low‑latency backends, security‑sensitive flows).
 
 ---
 
@@ -12,7 +12,7 @@ Passionate **full‑stack** engineer and AI enthusiast focused on fintech, cyber
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)[web:29]
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=databricks&logoColor=white)
@@ -25,10 +25,10 @@ Passionate **full‑stack** engineer and AI enthusiast focused on fintech, cyber
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)[web:28][web:30]
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%233B528B.svg?style=for-the-badge&logo=plotly&logoColor=white)[web:1][web:20]
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%233B528B.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### Databases & Storage
 
@@ -46,7 +46,7 @@ Passionate **full‑stack** engineer and AI enthusiast focused on fintech, cyber
 ![Metasploit](https://img.shields.io/badge/Metasploit-2194F3?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
 
-> Comfortable with web app reconnaissance, traffic inspection, exploitation labs, and OS‑level troubleshooting using common Kali Linux tooling and the Linux command line.[web:33][web:37]
+> Comfortable with web app reconnaissance, traffic inspection, password‑attack labs, exploitation exercises, and OS‑level troubleshooting using common Kali Linux tooling and the Linux command line.
 
 ---
 
@@ -69,7 +69,7 @@ Here are some of the challenges that shaped my engineering mindset and domain de
 
 ---
 
-## 🚀 Special ONES
+## 🚀 Special Ones
 
 These are the core repositories that best show how I think and build.
 
@@ -105,6 +105,42 @@ These are the core repositories that best show how I think and build.
 
 - **Clean Code & Testing Examples**  
   Focused repo demonstrating SOLID principles, unit tests, integration tests, and clear project structure.
+
+---
+
+## 🏅 Stats, Trophies & Animations
+
+<p align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=kabanda-jordan&theme=onedark&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kabanda-jordan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=kabanda-jordan&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabanda-jordan&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <!-- Typing animation (mind‑bender vibe) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Full-stack+Engineer;Fintech+%2B+AI+Builder;Cybersecurity+and+Networking+Enthusiast;Always+learning%2C+always+shipping" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <!-- Visitor counter -->
+  <img src="https://komarev.com/ghpvc/?username=kabanda-jordan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+> You can swap themes or layouts for these widgets any time using their query parameters.[web:38][web:44][web:45][web:47]
 
 ---
 
