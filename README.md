@@ -105,18 +105,7 @@ These are the core repositories that best show how I think and build.
 
 ## 🏅 Stats, Trophies & Animations
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kabanda-jordan&theme=onedark&no-bg=true&no-frame=true)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kabanda-jordan&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kabanda-jordan&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kabanda-jordan&layout=compact&theme=tokyonight)
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Full-stack+Engineer;Fintech+%2B+AI+Builder;Cybersecurity+and+Networking+Enthusiast;Always+learning%2C+always+shipping)
-
-![Profile views](https://komarev.com/ghpvc/?username=kabanda-jordan&label=Profile%20Views&color=0e75b6&style=flat)
-
 
 ---
 
