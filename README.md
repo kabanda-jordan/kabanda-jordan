@@ -33,9 +33,9 @@ Passionate **full‑stack** engineer and AI enthusiast focused on fintech, cyber
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Web3, Blockchain & Crypto
-
+![Solidity](https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-%233C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)[web:5]
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-%23F7DF1E.svg?style=for-the-badge&logo=hardhat&logoColor=black)
 ![Metamask](https://img.shields.io/badge/Metamask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
 ![IPFS](https://img.shields.io/badge/IPFS-0A1B2B?style=for-the-badge&logo=ipfs&logoColor=white)
