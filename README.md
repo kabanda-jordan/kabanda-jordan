@@ -1,6 +1,6 @@
 # 👋 Hi, I'm KABANDA JORDAN
 
-Full‑stack **engineer** and AI enthusiast focused on fintech, cybersecurity, and high‑performance systems. I enjoy turning complex systems into clean, testable code and building products that operate under real‑world constraints (edge devices, low‑latency backends, security‑sensitive flows).[web:23][web:26]
+Passionate **full‑stack** engineer and AI enthusiast focused on fintech, cybersecurity, and high‑performance systems. I enjoy turning complex systems into clean, testable code and building projects that run close to real‑world constraints (edge devices, low‑latency backends, security‑sensitive flows).[web:23][web:26]
 
 ---
 
@@ -8,19 +8,14 @@ Full‑stack **engineer** and AI enthusiast focused on fintech, cybersecurity, a
 
 ### Languages
 
-<p align="left">
-  <img src="https://github.com/Pedro-Murilo/icons-for-readme/raw/main/.github/js-icon.svg" alt="JavaScript" width="75" />
-  <img src="https://github.com/Pedro-Murilo/icons-for-readme/raw/main/.github/typescript-icon.svg" alt="TypeScript" width="75" />
-  <img src="https://github.com/Pedro-Murilo/icons-for-readme/raw/main/.github/python-icon.svg" alt="Python" width="75" />
-  <img src="https://github.com/Pedro-Murilo/icons-for-readme/raw/main/.github/go-icon.svg" alt="Go" width="75" />
-  <img src="https://github.com/Pedro-Murilo/icons-for-readme/raw/main/.github/ruby-icon.svg" alt="Ruby" width="75" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="75" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="75" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="75" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="75" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="75" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="75" />
-</p>[web:21][web:22][web:25]
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)[web:29]
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### Frameworks & Libraries
 
@@ -30,6 +25,7 @@ Full‑stack **engineer** and AI enthusiast focused on fintech, cybersecurity, a
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)[web:28][web:30]
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%233B528B.svg?style=for-the-badge&logo=plotly&logoColor=white)[web:1][web:20]
@@ -39,7 +35,18 @@ Full‑stack **engineer** and AI enthusiast focused on fintech, cybersecurity, a
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)[web:1][web:20]
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Networking, Security & OS
+
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2194F3?style=for-the-badge&logo=metasploit&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
+
+> Comfortable with web app reconnaissance, traffic inspection, exploitation labs, and OS‑level troubleshooting using common Kali Linux tooling and the Linux command line.[web:33][web:37]
 
 ---
 
@@ -62,9 +69,9 @@ Here are some of the challenges that shaped my engineering mindset and domain de
 
 ---
 
-## 🚀 Latest Projects
+## 🚀 Special ONES
 
-These are the repositories that best show how I think and build.
+These are the core repositories that best show how I think and build.
 
 - **Flagship Project – Trading Journal / Analytics Platform**  
   Full‑stack app focused on real trading workflows, including risk insights, journaling, and analytics.  
@@ -88,7 +95,7 @@ These are the repositories that best show how I think and build.
 
 ---
 
-## 📚 Skill Proof
+## 📚 Skill Proof Repositories
 
 - **Algorithms & Data Structures**  
   Organized solutions by topic (graphs, DP, trees, trading‑related), each with problem, approach, complexity, and notes.
