@@ -105,35 +105,18 @@ These are the core repositories that best show how I think and build.
 
 ## 🏅 Stats, Trophies & Animations
 
-<p align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=kabanda-jordan&theme=onedark&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kabanda-jordan&theme=onedark&no-bg=true&no-frame=true)
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kabanda-jordan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kabanda-jordan&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kabanda-jordan&theme=tokyonight" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kabanda-jordan&theme=tokyonight)
 
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabanda-jordan&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kabanda-jordan&layout=compact&theme=tokyonight)
 
-<p align="center">
-  <!-- Typing animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Full-stack+Engineer;Fintech+%2B+AI+Builder;Cybersecurity+and+Networking+Enthusiast;Always+learning%2C+always+shipping" alt="Typing SVG" />
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Full-stack+Engineer;Fintech+%2B+AI+Builder;Cybersecurity+and+Networking+Enthusiast;Always+learning%2C+always+shipping)
 
-<p align="center">
-  <!-- Visitor counter -->
-  <img src="https://komarev.com/ghpvc/?username=kabanda-jordan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=kabanda-jordan&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 ---
 
