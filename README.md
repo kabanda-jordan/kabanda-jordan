@@ -117,7 +117,7 @@ These are the core repositories that best show how I think and build.
 
 <p align="center">
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=kabanda-jordan&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kabanda-jordan&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
