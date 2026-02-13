@@ -32,6 +32,17 @@ Passionate **full‑stack** engineer and AI enthusiast focused on fintech, cyber
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### Web3, Blockchain & Crypto
+
+![Ethereum](https://img.shields.io/badge/Ethereum-%233C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)[web:5]
+![Hardhat](https://img.shields.io/badge/Hardhat-%23F7DF1E.svg?style=for-the-badge&logo=hardhat&logoColor=black)
+![Metamask](https://img.shields.io/badge/Metamask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-0A1B2B?style=for-the-badge&logo=ipfs&logoColor=white)
+
+> Building and testing **dApps** end‑to‑end: smart contracts in Solidity, Web3.js/ethers.js integration, wallet flows (MetaMask), and basic DeFi / micro‑lending experiments on EVM chains.
+
+
 ### Networking, Security & OS
 
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
