@@ -154,7 +154,7 @@ To reflect real‑world engineering standards, I try to always include:
 
 ## 🌐 Connect
 
-- Portfolio: [vercel](https://vercel.com/kabanda-jordans-projects/portfolio](https://portfolio-git-main-kabanda-jordans-projects.vercel.app/))  
+- Portfolio: [vercel](https://portfolio-git-main-kabanda-jordans-projects.vercel.app)  
 - LinkedIn: [kabanda-jordan](https://linkedin.com/in/kabanda-jordan)  
 - Email: [kabandajordan784@gmail.com](mailto:kabandajordan784@gmail.com)  
 - GitHub: [kabanda-jordan](https://github.com/kabanda-jordan)
