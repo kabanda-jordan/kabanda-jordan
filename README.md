@@ -77,12 +77,11 @@ I enjoy turning complex systems into clean, testable code and building projects 
 ---
 
 ## 🏆 Project Trophy Room
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kabanda-jordan&theme=onedark&no-bg=true&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <!-- Dynamic GitHub trophies (global stats) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=kabanda-jordan&theme=onedark&no-bg=true&no-frame=true&margin-w=15&margin-h=15&column=5" alt="GitHub Trophies" />
 </p>
-
-
-
 
 <p align="center">
   <!-- Custom project-style trophies -->
@@ -103,7 +102,11 @@ I enjoy turning complex systems into clean, testable code and building projects 
 
 ---
 
-## 🧭 Timeline – How I Got Here
+## 🚀 Timeline – Launch Path
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=F97316&center=true&vCenter=true&width=900&lines=🚀+Launch+timeline;2021+→+First+lines+of+code;2022+→+Web%2C+backend+%26+Linux;2023+→+Cybersecurity+%26+networking;2023–2024+→+Fintech%2C+AI+%26+data;2024+→+Web3+%26+distributed+systems;2025+→+Shipping+harder+things;...and+we're+still+going+up+🛰️" alt="Timeline Typing SVG" />
+</p>
 
 > Not a full CV, just the highlights that shaped how I build and think.
 
@@ -223,16 +226,6 @@ These are the core repositories that best show how I think and build.
   <!-- Visitor counter -->
   <img src="https://komarev.com/ghpvc/?username=kabanda-jordan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
----
-
-## 🛠 Engineering Signals
-
-To reflect real‑world engineering standards, I try to always include:
-
-- **Tests** – unit and integration tests, plus coverage badge where useful.  
-- **Architecture Diagrams** – system, data flow, and component layouts for non‑trivial projects.  
-- **Benchmarks** – speed and memory comparisons for systems, AI, and performance‑critical tools.
 
 ---
 
