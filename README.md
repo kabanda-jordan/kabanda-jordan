@@ -4,7 +4,7 @@ Passionate **full‑stack** engineer and AI enthusiast focused on fintech, cyber
 I enjoy turning complex systems into clean, testable code and building projects that run close to real‑world constraints (edge devices, low‑latency backends, security‑sensitive flows).
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00F5A0&center=true&vCenter=true&width=900&lines=Backend-first+Java+engineer;Fintech%2C+Cybersecurity+%26+Web3+builder;Breaking+and+securing+APIs;Turning+ideas+into+systems;Student+of+systems%2C+not+just+syntax" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00F5A0&center=true&vCenter=true&width=900&lines=Backend-first+Java+engineer;Fintech,+Cybersecurity+and+Web3+builder;Breaking+and+securing+APIs;Turning+ideas+into+systems;Student+of+systems,+not+just+syntax" alt="Typing SVG" />
 </p>
 
 ---
@@ -64,7 +64,7 @@ I enjoy turning complex systems into clean, testable code and building projects 
 ## 🎯 Interests, Style & Mindset
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=22C55E&center=true&vCenter=true&width=900&lines=Fintech+%26+DeFi+experiments;Offensive+%26+defensive+web+security;Distributed+systems+and+networking;Teaching+what+I+learn+to+others;Building+tools+for+real+people;Football+fan+(Barca+%26+Arsenal);Road+trips+%26+night+coding+sessions;AI+agents+doing+boring+work;Systems+that+shouldn't+work+but+do;Turning+random+ideas+into+repos" alt="Interests Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=22C55E&center=true&vCenter=true&width=900&lines=Fintech+and+DeFi+experiments;Offensive+and+defensive+web+security;Distributed+systems+and+networking;Teaching+what+I+learn+to+others;Building+tools+for+real+people;Football+fan+(Barca+and+Arsenal);Road+trips+and+night+coding+sessions;AI+agents+doing+boring+work;Systems+that+should+not+work+but+do;Turning+random+ideas+into+repos" alt="Interests Typing SVG" />
 </p>
 
 - **Fintech & DeFi** – trading tools, risk engines, and on‑chain experiments.  
@@ -80,7 +80,9 @@ I enjoy turning complex systems into clean, testable code and building projects 
 
 <p align="center">
   <!-- Dynamic GitHub trophies (global stats) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=kabanda-jordan&theme=onedark&no-bg=true&no-frame=true&margin-w=15&margin-h=15&column=5" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kabanda-jordan" alt="GitHub Trophies" />
+  </a>
 </p>
 
 <p align="center">
@@ -93,10 +95,10 @@ I enjoy turning complex systems into clean, testable code and building projects 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Trophy-CTF%20%26%20Cyber%20Exercises-facc15?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trophy-CTF%20and%20Cyber%20Exercises-facc15?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Trophy-Edge%20Systems%20Perf%20Challenge-10b981?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Trophy-Quant%20%26%20Risk%20Engine-0ea5e9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Trophy-Open%20Source%20%26%20Community-ec4899?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trophy-Quant%20and%20Risk%20Engine-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trophy-Open%20Source%20and%20Community-ec4899?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Trophy-Late%20Night%20Shipping-6366f1?style=for-the-badge" />
 </p>
 
@@ -105,7 +107,7 @@ I enjoy turning complex systems into clean, testable code and building projects 
 ## 🚀 Timeline – Launch Path
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=F97316&center=true&vCenter=true&width=900&lines=🚀+Launch+timeline;2021+→+First+lines+of+code;2022+→+Web%2C+backend+%26+Linux;2023+→+Cybersecurity+%26+networking;2023–2024+→+Fintech%2C+AI+%26+data;2024+→+Web3+%26+distributed+systems;2025+→+Shipping+harder+things;...and+we're+still+going+up+🛰️" alt="Timeline Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=F97316&center=true&vCenter=true&width=900&lines=Launch+timeline;2021+-+First+lines+of+code;2022+-+Web,+backend+and+Linux;2023+-+Cybersecurity+and+networking;2023-2024+-+Fintech,+AI+and+data;2024+-+Web3+and+distributed+systems;2025+-+Shipping+harder+things;Still+climbing+higher" alt="Timeline Typing SVG" />
 </p>
 
 > Not a full CV, just the highlights that shaped how I build and think.
