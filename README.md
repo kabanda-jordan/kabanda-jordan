@@ -79,9 +79,9 @@ I enjoy turning complex systems into clean, testable code and building projects 
 ## 🏆 Project Trophy Room
 
 <p align="center">
-  <!-- Dynamic GitHub trophies (global stats) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=kabanda-jordan&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kabanda-jordan&theme=onedark&no-bg=true&no-frame=true&margin-w=10&margin-h=10&row=2&column=5" alt="GitHub Trophies" />
 </p>
+
 
 <p align="center">
   <!-- Custom project-style trophies -->
