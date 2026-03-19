@@ -83,6 +83,7 @@ I enjoy turning complex systems into clean, testable code and building projects 
 
 
 
+
 <p align="center">
   <!-- Custom project-style trophies -->
   <img src="https://img.shields.io/badge/Trophy-Scalable%20Trading%20Platform-22c55e?style=for-the-badge" />
