@@ -78,15 +78,15 @@ I enjoy turning complex systems into clean, testable code and building projects 
 
 ## 🏆 Project Trophy Room
 
+<!-- Dynamic service version (may fail sometimes). If it shows only alt text, scroll down to the static trophies. -->
 <p align="center">
-  <!-- Dynamic GitHub trophies (global stats) -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kabanda-jordan" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=kabanda-jordan" alt="GitHub Trophies (dynamic service)" />
   </a>
 </p>
 
+<!-- Always-visible static trophies (no external service logic) -->
 <p align="center">
-  <!-- Custom project-style trophies -->
   <img src="https://img.shields.io/badge/Trophy-Scalable%20Trading%20Platform-22c55e?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Trophy-API%20Security%20Toolkit-f97316?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Trophy-Networking%20Systems%20Lab-3b82f6?style=for-the-badge" />
