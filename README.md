@@ -64,15 +64,65 @@ I enjoy turning complex systems into clean, testable code and building projects 
 ## 🎯 Interests, Style & Mindset
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=22C55E&center=true&vCenter=true&width=900&lines=Fintech+%26+DeFi+experiments;Offensive+%26+defensive+web+security;Distributed+systems+and+networking;Teaching+what+I+learn+to+others;Building+tools+for+real+people;Football+fan+(Barca+%26+Arsenal);Road+trips+%26+documenting+the+journey;AI+for+automation+and+research" alt="Interests Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=22C55E&center=true&vCenter=true&width=900&lines=Fintech+%26+DeFi+experiments;Offensive+%26+defensive+web+security;Distributed+systems+and+networking;Teaching+what+I+learn+to+others;Building+tools+for+real+people;Football+fan+(Barca+%26+Arsenal);Road+trips+%26+night+coding+sessions;AI+agents+doing+boring+work;Systems+that+shouldn't+work+but+do;Turning+random+ideas+into+repos" alt="Interests Typing SVG" />
 </p>
 
 - **Fintech & DeFi** – trading tools, risk engines, and on‑chain experiments.  
 - **Cybersecurity** – web app hacking labs, API security, CTFs, and blue team tools.  
 - **Distributed systems & networking** – low‑latency backends, sockets, and protocol internals.  
-- **Teaching & community** – breaking down complex topics for other devs and students.  
+- **Teaching & community** – explaining hard topics so younger devs don’t suffer alone.  
 - **Football & road trips** – FC Barcelona, Arsenal, and long drives with good music.  
-- **AI & automation** – using ML and small agents to remove boring, repetitive work.  
+- **“What if?” projects** – weird experiments, automation gremlins, and ideas that feel slightly illegal but aren’t.  
+
+---
+
+## 🏆 Project Trophy Room
+
+<p align="center">
+  <!-- Dynamic GitHub trophies (global stats) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=kabanda-jordan&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=5" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <!-- Custom project-style trophies -->
+  <img src="https://img.shields.io/badge/Trophy-Scalable%20Trading%20Platform-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trophy-API%20Security%20Toolkit-f97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trophy-Networking%20Systems%20Lab-3b82f6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trophy-Web3%20DeFi%20Application-8b5cf6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trophy-Fraud%20Detection%20Pipeline-ef4444?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Trophy-CTF%20%26%20Cyber%20Exercises-facc15?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trophy-Edge%20Systems%20Perf%20Challenge-10b981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trophy-Quant%20%26%20Risk%20Engine-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trophy-Open%20Source%20%26%20Community-ec4899?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trophy-Late%20Night%20Shipping-6366f1?style=for-the-badge" />
+</p>
+
+---
+
+## 🧭 Timeline – How I Got Here
+
+> Not a full CV, just the highlights that shaped how I build and think.
+
+- **2021 – First lines of code**  
+  Learned the basics with JavaScript and Python, started building small scripts and toy projects.
+
+- **2022 – Web, backend & Linux**  
+  Went deeper into web dev, REST APIs, databases, and got comfortable living inside a Linux terminal.
+
+- **2023 – Cybersecurity & networking arc**  
+  Discovered Kali, Wireshark, Burp Suite, Metasploit and fell into web security labs, CTFs, and network internals.
+
+- **2023–2024 – Fintech, AI & data**  
+  Built trading tools, anomaly/fraud detection experiments, and started treating systems like real products instead of tutorials.
+
+- **2024 – Web3 & distributed systems**  
+  Smart contracts, DeFi prototypes, microservices, and low‑latency backend experiments.
+
+- **2025+ – Shipping harder things**  
+  Focused on projects with real constraints: performance, security, users, and maintainability, while mentoring and contributing more in public.
 
 ---
 
@@ -153,6 +203,19 @@ These are the core repositories that best show how I think and build.
   <img src="https://img.shields.io/badge/Hackathons-10%2B-blueviolet?style=for-the-badge" alt="Hackathons" />
   <img src="https://img.shields.io/badge/CTF-Participant-orange?style=for-the-badge" alt="CTF Participant" />
   <img src="https://img.shields.io/badge/Edge%20Systems-Perf%20Tuning-10b981?style=for-the-badge" alt="Edge Systems" />
+</p>
+
+<p align="center">
+  <!-- GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kabanda-jordan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kabanda-jordan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabanda-jordan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
