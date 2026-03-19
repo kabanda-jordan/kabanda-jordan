@@ -78,15 +78,8 @@ I enjoy turning complex systems into clean, testable code and building projects 
 
 ## 🏆 Project Trophy Room
 
-<!-- Dynamic service version (may fail sometimes). If it shows only alt text, scroll down to the static trophies. -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kabanda-jordan" alt="GitHub Trophies (dynamic service)" />
-  </a>
-</p>
-
-<!-- Always-visible static trophies (no external service logic) -->
-<p align="center">
+  <!-- Static trophies only, no external dynamic services -->
   <img src="https://img.shields.io/badge/Trophy-Scalable%20Trading%20Platform-22c55e?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Trophy-API%20Security%20Toolkit-f97316?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Trophy-Networking%20Systems%20Lab-3b82f6?style=for-the-badge" />
@@ -157,23 +150,18 @@ These are the core repositories that best show how I think and build.
 
 - **Flagship Project – Trading Journal / Analytics Platform**  
   Full‑stack app focused on real trading workflows, including risk insights, journaling, and analytics.  
-  Highlights: clear problem → solution story, architecture diagram, tests, roadmap, and production‑style setup.
 
 - **AI / ML Project – Fraud or Anomaly Detection**  
   ML pipeline with data cleaning, feature engineering, model training, evaluation, and comparison.  
-  Highlights: metrics like precision, recall, F1; ablations; discussion of trade‑offs.
 
 - **Cybersecurity Project – Blue/Red Team Tools & CTF Writeups**  
   Security utilities (log analyzer, vulnerability scanner, etc.) plus structured writeups of CTF challenges.  
-  Highlights: threat model, attack scenarios, defense strategy, security trade‑offs.
 
 - **Networking / Systems Project – Low‑Level Networking**  
   Socket‑based chat server, simple load balancer, or network monitor.  
-  Highlights: concurrency, resource usage, benchmarks, and diagrams of data flow.
 
 - **FinTech / Data Project – Quant / Risk Engine**  
   Backtesting engine, risk calculator, or portfolio optimizer with real or realistic market data.  
-  Highlights: clear assumptions, risk metrics, and performance reports.
 
 ---
 
@@ -193,26 +181,22 @@ These are the core repositories that best show how I think and build.
 ## 🏅 MY WORLD AND REALITY
 
 <p align="center">
-  <!-- Animated banner (swap GIF any time) -->
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding animation" width="500" />
 </p>
 
 <p align="center">
-  <!-- Vibes -->
   <img src="https://img.shields.io/badge/Code-Always%20Shipping-22c55e?style=for-the-badge" alt="Always Shipping" />
   <img src="https://img.shields.io/badge/Focus-Fintech%20%7C%20AI%20%7C%20Security-0f172a?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/OS-Linux%20%7C%20Kali%20Linux-2563eb?style=for-the-badge" alt="OS" />
 </p>
 
 <p align="center">
-  <!-- Trophy‑style static badges -->
   <img src="https://img.shields.io/badge/Hackathons-10%2B-blueviolet?style=for-the-badge" alt="Hackathons" />
   <img src="https://img.shields.io/badge/CTF-Participant-orange?style=for-the-badge" alt="CTF Participant" />
   <img src="https://img.shields.io/badge/Edge%20Systems-Perf%20Tuning-10b981?style=for-the-badge" alt="Edge Systems" />
 </p>
 
 <p align="center">
-  <!-- GitHub stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=kabanda-jordan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
@@ -225,7 +209,6 @@ These are the core repositories that best show how I think and build.
 </p>
 
 <p align="center">
-  <!-- Visitor counter -->
   <img src="https://komarev.com/ghpvc/?username=kabanda-jordan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
