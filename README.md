@@ -216,7 +216,7 @@ These are the core repositories that best show how I think and build.
 
 ## 🌐 Connect
 
-- Portfolio: [vercel](https://portfolio-git-main-kabanda-jordans-projects.vercel.app)  
+- Portfolio: [vercel](https://kabanda-jordan.vercel.app/)  
 - LinkedIn: [kabanda-jordan](https://linkedin.com/in/kabanda-jordan)  
 - Email: [kabandajordan784@gmail.com](mailto:kabandajordan784@gmail.com)  
 - GitHub: [kabanda-jordan](https://github.com/kabanda-jordan)
